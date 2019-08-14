@@ -1,0 +1,55 @@
+Ways to write ActionListener :
+
+1. Anonymous inner class 
+2. A class that implements ActionListener inteface
+3. A separate class that implements ActionListener inteface
+
+import java.util.*;
+
+
+public class Rough {
+    public static void main(String args[] ) throws Exception {
+        Set<ArrayList<Integer>> responseBigSet = new HashSet<ArrayList<Integer>>();
+        //Set of sets for optionsArray
+        Set<ArrayList<Integer>> optionsBigSet = new HashSet<ArrayList<Integer>>();
+        ArrayList<Integer> input1r = new ArrayList<Integer>();
+        input1r.add(2);
+        input1r.add(1);
+        responseBigSet.add(input1r);
+        ArrayList<Integer> input2r = new ArrayList<Integer>();
+        input2r.add(1);
+        input2r.add(2);
+        responseBigSet.add(input2r);
+        ArrayList<Integer> input3r = new ArrayList<Integer>();
+        input3r.add(3);
+        input3r.add(4);
+        responseBigSet.add(input3r);
+        ArrayList<Integer> input1o = new ArrayList<Integer>();
+        input1o.add(1);
+        input1o.add(2);
+        optionsBigSet.add(input1o);
+        ArrayList<Integer> input2o = new ArrayList<Integer>();
+        input2o.add(1);
+        input2o.add(2);
+        optionsBigSet.add(input2o);
+        ArrayList<Integer> input3o = new ArrayList<Integer>();
+        input3o.add(3);
+        input3o.add(4);
+        optionsBigSet.add(input3o);
+        System.out.println(responseBigSet);
+        System.out.println(optionsBigSet);
+        if(responseBigSet.containsAll(optionsBigSet) && optionsBigSet.containsAll(responseBigSet)) System.out.println("suysh");
+    }
+}
+/*==============================================================================================================================*/
+How to make a class immutable : Don't provide setter methods
+Ways of copying arrays from smaller to bigger : System.arraycopy & Arrays.copyOf
+Cannot sort an array of strings with spaces between them. ClassCastException.Try Comparable.
+
+//inside class tweet 
+public int compareTo(Object obj){
+    Tweet other = (Tweet) obj;
+    if(equals(obj)) return 0;
+    //Date and String class implement comparable
+    return creationDate.compareTo(other.creationDate);
+}

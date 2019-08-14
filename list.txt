@@ -1,0 +1,4 @@
+List of unsolved problems on hackerearth : 
+1. Merge sort : missing soldiers 
+2.Quick Sort : I think its easy ===>today
+3.

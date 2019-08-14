@@ -1,0 +1,40 @@
+https://www.hackerrank.com/contests/hourrank-29/challenges/array-partition/editorial
+
+https://www.geeksforgeeks.org/delete-n-nodes-after-m-nodes-of-a-linked-list/
+
+https://www.geeksforgeeks.org/sum-of-cousin-nodes-of-a-given-node-in-a-bst/
+
+https://www.geeksforgeeks.org/given-a-number-find-next-smallest-palindrome-larger-than-this-number/
+
+https://www.geeksforgeeks.org/microsoft-on-campus-placement-and-interview-questions/
+
+
+/**************************************To Do - Unsolved - See editorial**********************************************/
+
+Uncategorised 
+
+https://www.hackerearth.com/challenge/competitive/august-circuits-18/algorithm/noor-and-his-pond-760eabe0/
+
+Easy
+
+https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/pikachu-loves-or-0c02a270/editorial/
+
+/**************************************To Do - solved - Learn - Practice**********************************************/
+
+
+Very easy 
+
+https://www.hackerearth.com/challenge/competitive/august-circuits-18/algorithm/picu-bank-09e29493/
+
+https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/pikachu-and-the-game-of-strings-1-8c22a8ce/
+
+Easy 
+
+
+Medium 
+
+
+Hard
+
+/**************************************To Do - contests - Learn - Practice**********************************************/
+https://www.hackerearth.com/challenge/competitive/august-easy-18/problems/
